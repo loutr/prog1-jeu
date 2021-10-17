@@ -52,7 +52,7 @@ le module Graphics (`libgraphics-ocaml-dev` par exemple sous Debian). La créati
 l'exécutable se fait par:
 
 ```
-make sudoku.bin
+make
 ```
 
 ## Licence et contact

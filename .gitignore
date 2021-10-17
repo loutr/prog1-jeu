@@ -1,0 +1,9 @@
+sudoku
+sudoku.byte
+*.cmi
+*.cmo
+*.cma
+*.cmx
+*.cmxa
+*.o
+*.a
